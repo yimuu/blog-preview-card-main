@@ -80,6 +80,14 @@ article .title {
     line-height: 36px;
 }
 
+article .title:hover {
+    margin: 12px 0;
+    padding: 0px;
+    font-size: 24px;
+    line-height: 36px;
+    color: var(--main-bg-color);
+}
+
 article .content {
     margin-top: 12px;
     font-size: 16px;
